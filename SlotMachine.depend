@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535431284 source:e:\slotmachine\main.cpp
+	<iostream>
+	<Windows.h>
+
